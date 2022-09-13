@@ -1,0 +1,15 @@
+/* Regular */
+@font-face {
+  font-family: "Old London";
+  src: url("/fonts/old-london/OldLondon.ttf");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Alice in wonderland";
+  src: url("/fonts/alice-in-wonderland/Alice_in_Wonderland_3.ttf");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}

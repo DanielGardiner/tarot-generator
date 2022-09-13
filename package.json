@@ -1,0 +1,23 @@
+{
+  "name": "tarot-generator",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -H 0.0.0.0 -p ${PORT:-4482}",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer-motion": "^4.1.17",
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "sharp": "^0.29.2"
+  },
+  "devDependencies": {
+    "@styled-jsx/plugin-sass": "^4.0.1",
+    "read-excel-file": "^5.2.17",
+    "sass": "^1.43.2"
+  }
+}

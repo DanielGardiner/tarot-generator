@@ -1,0 +1,628 @@
+{
+  "cards": [
+    {
+      "name": "The Fool",
+      "imageName": "RWS_Tarot_00_Fool.jpg",
+      "text": {
+        "normal": "Carefree, purity, travel. Willingness to leap into the unknown and start anew.",
+        "flipped": "Low energy. Inability to make balanced decisions or move forward."
+      }
+    },
+    {
+      "name": "The Magician",
+      "imageName": "RWS_Tarot_01_Magician.jpg",
+      "text": {
+        "normal": "Strength, power, direction. Summoning new ideas and inspiring action.",
+        "flipped": "Deception. Take care in where you put your trust."
+      }
+    },
+    {
+      "name": "The High Priestess",
+      "imageName": "RWS_Tarot_02_High_Priestess.jpg",
+      "text": {
+        "normal": "Peace, patience, balance. All will be revealed with time and intuition.",
+        "flipped": "Vanity, instability, selfishness and deception. Withdraw from the external world to connect with your intuition."
+      }
+    },
+    {
+      "name": "The Empress",
+      "imageName": "RWS_Tarot_03_Empress.jpg",
+      "text": {
+        "normal": "Motherhood, wisdom, abundance. Connect with your feminine energy.",
+        "flipped": "Overindulgence, bareness, domineerance. Take care of yourself first so you can take care of others without resentment."
+      }
+    },
+    {
+      "name": "The Emperor",
+      "imageName": "RWS_Tarot_04_Emperor.jpg",
+      "text": {
+        "normal": "Wealth, independence, emotional balance. Others are relying on you for stability and security.",
+        "flipped": "Rigidity, lack of self-control, immaturity. Assess your relationship with power and the role it plays in your life."
+      }
+    },
+    {
+      "name": "The Hierophant",
+      "imageName": "RWS_Tarot_05_Hierophant.jpg",
+      "text": {
+        "normal": "Mercy, compassion, orthodoxy. A need for approval and conformity.",
+        "flipped": "Rule-breaking and rebellion. Remember that wisdom comes from within."
+      }
+    },
+    {
+      "name": "The Lovers",
+      "imageName": "RWS_Tarot_06_Lovers.jpg",
+      "text": {
+        "normal": "Love, friendship, partnership. Enjoy the flow of love, respect and compassion.",
+        "flipped": "Disharmony, imbalance, misalignment. Hastiness leads to unwise decisions."
+      }
+    },
+    {
+      "name": "The Chariot",
+      "imageName": "RWS_Tarot_07_Chariot.jpg",
+      "text": {
+        "normal": "Balance positive and negative forces. Maintain focus. A long journey may be ahead...",
+        "flipped": "Lack of control, bad habits, setbacks. It's time to do a U turn."
+      }
+    },
+    {
+      "name": "Strength",
+      "imageName": "RWS_Tarot_08_Strength.jpg",
+      "text": {
+        "normal": "Courage, influence, compassion. Use your head, not your heart.",
+        "flipped": "Lack of self-control and confidence, cowardice. Bring balance back to your being."
+      }
+    },
+    {
+      "name": "The Hermit",
+      "imageName": "RWS_Tarot_09_Hermit.jpg",
+      "text": {
+        "normal": "Wisdom, enlightment, healing, self-knowledge. Allow yourself to enjoy a journey of self-discovery.",
+        "flipped": "Loneliness, depression,\r\nheedlessness. Dig deeper to find your true purpose."
+      }
+    },
+    {
+      "name": "The Wheel of Fortune",
+      "imageName": "RWS_Tarot_10_Wheel_of_Fortune.jpg",
+      "text": {
+        "normal": "Fortune, power, change. A turn for the better.",
+        "flipped": "Fickleness, a turn for the worse. Blind optimism can lead to failure."
+      }
+    },
+    {
+      "name": "Justice",
+      "imageName": "RWS_Tarot_11_Justice.jpg",
+      "text": {
+        "normal": "Fairness, truth, law. Decisions will be made - fairly.",
+        "flipped": "Prejudice, irrationality, dishonesty. Pay attention."
+      }
+    },
+    {
+      "name": "The Hanged Man",
+      "imageName": "RWS_Tarot_12_Hanged_Man.jpg",
+      "text": {
+        "normal": "Rest, reassessment, patience. New horizons will be revealed, in time.",
+        "flipped": "Unwillingness to compromise and sacrifice. An investment is needed before things can improve."
+      }
+    },
+    {
+      "name": "Death",
+      "imageName": "RWS_Tarot_13_Death.jpg",
+      "text": {
+        "normal": "Rebirth, transition, change. Let go of what's holding you back.",
+        "flipped": "Resistance, purging, transformation. Accidents, loss of friendship, a refusal to budge."
+      }
+    },
+    {
+      "name": "Temperance",
+      "imageName": "RWS_Tarot_14_Temperance.jpg",
+      "text": {
+        "normal": "Continuity, synthesis, good health. Recover your flow to get things in balance.",
+        "flipped": "Disharmony, frustration, opposition. This is a warning, get things in balance as soon as possible."
+      }
+    },
+    {
+      "name": "The Devil",
+      "imageName": "RWS_Tarot_15_Devil.jpg",
+      "text": {
+        "normal": "Deviance, bondage, commercialism. Your shadow self may be holding you back.",
+        "flipped": "Bad habits and addictions. Be strong - afflictions can be overcome."
+      }
+    },
+    {
+      "name": "The Tower",
+      "imageName": "RWS_Tarot_16_Tower.jpg",
+      "text": {
+        "normal": "Radical transformation, dissolution of partnerships, structural damage.",
+        "flipped": "Time to dig out of the rut."
+      }
+    },
+    {
+      "name": "The Star",
+      "imageName": "RWS_Tarot_17_Star.jpg",
+      "text": {
+        "normal": "Hope, inspiration, a bright future.",
+        "flipped": "Disappointment and incompleteness."
+      }
+    },
+    {
+      "name": "The Moon",
+      "imageName": "RWS_Tarot_18_Moon.jpg",
+      "text": {
+        "normal": "Deception, shifting sands, lunacy.",
+        "flipped": "Deceptions can be unveiled, mistakes can be corrected."
+      }
+    },
+    {
+      "name": "The Sun",
+      "imageName": "RWS_Tarot_19_Sun.jpg",
+      "text": {
+        "normal": "Growth, contentment, positive energy. It could be time to expand your horizons.",
+        "flipped": "Potential setbacks and blocked energy. Stay vigilant of important relationships."
+      }
+    },
+    {
+      "name": "Judgement",
+      "imageName": "RWS_Tarot_20_Judgement.jpg",
+      "text": {
+        "normal": "Transformation, soul-searching, forgiveness.",
+        "flipped": "Indecision, delaying the inevitable, missed opportunities."
+      }
+    },
+    {
+      "name": "The World",
+      "imageName": "RWS_Tarot_21_World.jpg",
+      "text": {
+        "normal": "Transcendence, liberation, completeness.",
+        "flipped": "You are not quite there yet. Refine your vision and filter out imperfections."
+      }
+    },
+    {
+      "name": "Ace of Wands",
+      "imageName": "Wands01.jpg",
+      "text": {
+        "normal": "Energy, virility, fertility. Something new is about to begin.",
+        "flipped": "If the goal isn't defined, energy and efforts will be wasted. Don't be surprised if plans don't work out."
+      }
+    },
+    {
+      "name": "Two of Wands",
+      "imageName": "Wands02.jpg",
+      "text": {
+        "normal": "Boldness, strength, possibility. The world is your oyster and everything is within reach.",
+        "flipped": "Keep your faith. Don't let others hold you back or lose heart."
+      }
+    },
+    {
+      "name": "Three of Wands",
+      "imageName": "Wands03.jpg",
+      "text": {
+        "normal": "Trade, bargaining, compromise. You are negotiating from a position of strength.",
+        "flipped": "Be sure that others are genuine, they may have a hidden agenda. You hold the advantage, although you may not know it."
+      }
+    },
+    {
+      "name": "Four of Wands",
+      "imageName": "Wands04.jpg",
+      "text": {
+        "normal": "Partnership, peace, harmony. Joining forces will benefit everyone involved.",
+        "flipped": "Results fall short of expectations. A flaw mars an otherwise perfect arrangement."
+      }
+    },
+    {
+      "name": "Five of Wands",
+      "imageName": "Wands05.jpg",
+      "text": {
+        "normal": "Playing or fighting? Absence of leadership. If forces can be rallied, the struggle will prove fruitful.",
+        "flipped": "Lack of cooperation. A difficult situation. Decision making is hard at present."
+      }
+    },
+    {
+      "name": "Six of Wands",
+      "imageName": "Wands06.jpg",
+      "text": {
+        "normal": "Victory, a bonus or a reward. Your hard work has paid off.",
+        "flipped": "An empty victory, or someone else is taking credit for your work."
+      }
+    },
+    {
+      "name": "Seven of Wands",
+      "imageName": "Wands07.jpg",
+      "text": {
+        "normal": "Victory, carpe diem! Despite overwhelming odds, success is assured.",
+        "flipped": "Doubt and uncertainty. Hesitating now could result in failure."
+      }
+    },
+    {
+      "name": "Eight of Wands",
+      "imageName": "Wands08.jpg",
+      "text": {
+        "normal": "Pace, change, a voyage. Don't be left behind.",
+        "flipped": "There is no I in team. If everyone goes off in different directions, nothing will be accomplished."
+      }
+    },
+    {
+      "name": "Nine of Wands",
+      "imageName": "Wands09.jpg",
+      "text": {
+        "normal": "This is the eye of the storm. The situation will worsen before it can improve, but you are ready for it.",
+        "flipped": "Pay attention and beware of traps! Read the tea leaves or you'll find misfortune."
+      }
+    },
+    {
+      "name": "Ten of Wands",
+      "imageName": "Wands10.jpg",
+      "text": {
+        "normal": "Burn out, pressure, heaviness. Things will ease soon. Physical exercise and relaxation can help.",
+        "flipped": "Something is working against you! It's time to act - before too much damage is done."
+      }
+    },
+    {
+      "name": "Page of Wands",
+      "imageName": "Wands11.jpg",
+      "text": {
+        "normal": "Good news is on the way. Don't be shy, make your voice heard.",
+        "flipped": "Gossip. Someone is telling tales - stop rumours while you can."
+      }
+    },
+    {
+      "name": "Knight of Wands",
+      "imageName": "Wands12.jpg",
+      "text": {
+        "normal": "Passion, exploration, adventure. A sign of the explorer.",
+        "flipped": "Lack of focus, quick to anger, change of course mid-stream."
+      }
+    },
+    {
+      "name": "Queen of Wands",
+      "imageName": "Wands13.jpg",
+      "text": {
+        "normal": "Light, love, soothing. Tireless charity work?",
+        "flipped": "Jealous when crossed and fickle in affections. Cannot be swayed…"
+      }
+    },
+    {
+      "name": "Kind of Wands",
+      "imageName": "Wands14.jpg",
+      "text": {
+        "normal": "Strength, vision, leadership and action.",
+        "flipped": "Extreme viewpoints prevent you from yielding to the opinions of others."
+      }
+    },
+    {
+      "name": "Ace of Pentacles",
+      "imageName": "Pents01.jpg",
+      "text": {
+        "normal": "Growth, prosperity, new beginnings. Anticipate something new.",
+        "flipped": "Are you squandering resources needlessly? Be careful, money does not buy happiness."
+      }
+    },
+    {
+      "name": "Two of Pentacles",
+      "imageName": "Pents02.jpg",
+      "text": {
+        "normal": "Don't take more than you can handle. Don't lose sight of circumstances as you try to juggle different things.",
+        "flipped": "You appear skilled at multitasking - but are you putting on a false front? It's not as easy as it looks."
+      }
+    },
+    {
+      "name": "Three of Pentacles",
+      "imageName": "Pents03.jpg",
+      "text": {
+        "normal": "Craftsmanship and hard work. People look up to you and admire your good example.",
+        "flipped": "You can do better! Don't be sloppy and pay attention to detail!"
+      }
+    },
+    {
+      "name": "Four of Pentacles",
+      "imageName": "Pents04.jpg",
+      "text": {
+        "normal": "Loosen your grip on material things to help restore the flow of energy and creativity.",
+        "flipped": "Expect delays. Obstacles stand in the way of material gain."
+      }
+    },
+    {
+      "name": "Five of Pentacles",
+      "imageName": "Pents05.jpg",
+      "text": {
+        "normal": "Error, missed opportunities, financial trouble. Aid is at hand, all you need to do is ask.",
+        "flipped": "The worst has passed. Hard times can be overcome."
+      }
+    },
+    {
+      "name": "Six of Pentacles",
+      "imageName": "Pents06.jpg",
+      "text": {
+        "normal": "Philanthropy. Generosity will be rewarded and loans will be repaid.",
+        "flipped": "Selfish behaviour, unpaid loans, bad debt."
+      }
+    },
+    {
+      "name": "Seven of Pentacles",
+      "imageName": "Pents07.jpg",
+      "text": {
+        "normal": "Patience, hard work, effort. Things will happen, but not now. More consistent effort is needed.",
+        "flipped": "Impatience could lead to risky endeavours."
+      }
+    },
+    {
+      "name": "Eight of Pentacles",
+      "imageName": "Pents08.jpg",
+      "text": {
+        "normal": "Success can be achieved through old fashioned work. Quick to learn, you can advance your craft with conscientious effort.",
+        "flipped": "Lack of ambition, excessive materialism, failure."
+      }
+    },
+    {
+      "name": "Nine of Pentacles",
+      "imageName": "Pents09.jpg",
+      "text": {
+        "normal": "Wisdom, knowledge and talent meet a lack of love. This is a lonely time but success, recognition, and wealth will follow.",
+        "flipped": "Take extra care of your treasures - material and friendships. Now is the time to take up insurance."
+      }
+    },
+    {
+      "name": "Ten of Pentacles",
+      "imageName": "Pents10.jpg",
+      "text": {
+        "normal": "Safety, security, wealth. Life is full and wealth will be passed down through the generations.",
+        "flipped": "Loss, gambling, risk. The odds are against you, don't take risks now."
+      }
+    },
+    {
+      "name": "Page of Pentacles",
+      "imageName": "Pents11.jpg",
+      "text": {
+        "normal": "A thirst for knowledge, pursued diligently.",
+        "flipped": "Disorder, rebellion, illogical thinking."
+      }
+    },
+    {
+      "name": "Knight of Pentacles",
+      "imageName": "Pents12.jpg",
+      "text": {
+        "normal": "Taking responsibilities seriously, you'll finish what you start.",
+        "flipped": "Lack of imagination and follow-through, happy to let things slide…"
+      }
+    },
+    {
+      "name": "Queen of Pentacles",
+      "imageName": "Pents13.jpg",
+      "text": {
+        "normal": "Abundance, sensuality, earthliness. Enjoy abundance in many areas and share it with others.",
+        "flipped": "Keeping up appearances and neglecting responsibility."
+      }
+    },
+    {
+      "name": "Kind of Pentacles",
+      "imageName": "Pents14.jpg",
+      "text": {
+        "normal": "Success, devotion, toughness. Excellent management and good partnerships.",
+        "flipped": "Ruthlessness and disregard for morality."
+      }
+    },
+    {
+      "name": "Ace of Cups",
+      "imageName": "Cups01.jpg",
+      "text": {
+        "normal": "Joy, fertility, abundance. Oh , bright beginnings!",
+        "flipped": "Take off the rose-tinted glasses to see things as they are."
+      }
+    },
+    {
+      "name": "Two of Cups",
+      "imageName": "Cups02.jpg",
+      "text": {
+        "normal": "A relationship will enter a new and important phase.",
+        "flipped": "Open the lines of communication to avoid misunderstanding. A tumultuous relationship has too many ups and downs."
+      }
+    },
+    {
+      "name": "Three of Cups",
+      "imageName": "Cups03.jpg",
+      "text": {
+        "normal": "Party time! Relax and take credit for a job well done.",
+        "flipped": "Overindulgence. Stop taking your fortune for granted."
+      }
+    },
+    {
+      "name": "Four of Cups",
+      "imageName": "Cups04.jpg",
+      "text": {
+        "normal": "Boredom, stillness, withdrawal. You may need to move through a period of stagnation.",
+        "flipped": "Re-imergence, new possibilities and ideas. Have you adopted something new?"
+      }
+    },
+    {
+      "name": "Five of Cups",
+      "imageName": "Cups05.jpg",
+      "text": {
+        "normal": "\"If only...\" remorse over a severed partnership or unfulfilled dream.",
+        "flipped": "The outlook is hopeful. A reunion is at hand, or perhaps an old friend will drop in."
+      }
+    },
+    {
+      "name": "Six of Cups",
+      "imageName": "Cups06.jpg",
+      "text": {
+        "normal": "Nostalgia. Things will emerge from the past.",
+        "flipped": "The future will arrive sooner than you think. Look at what lays ahead and prepare for change."
+      }
+    },
+    {
+      "name": "Seven of Cups",
+      "imageName": "Cups07.jpg",
+      "text": {
+        "normal": "Flights of fancy could distract you - don't build castles in the air.",
+        "flipped": "Cut through the fluff and get to the heart of the matter. Your willpower will carry you forward."
+      }
+    },
+    {
+      "name": "Eight of Cups",
+      "imageName": "Cups08.jpg",
+      "text": {
+        "normal": "Don't turn your back on success by walking away from a situation just before it's completion.",
+        "flipped": "Projects are completed successfully - you will reap the rewards of your diligence. Expect a party or festive event!"
+      }
+    },
+    {
+      "name": "Nine of Cups",
+      "imageName": "Cups09.jpg",
+      "text": {
+        "normal": "Your wish will be granted, expect good luck.",
+        "flipped": "Errors or obstacles stand in the way of success. Don't allow an excess of confidence to blind you to the truth."
+      }
+    },
+    {
+      "name": "Ten of Cups",
+      "imageName": "Cups10.jpg",
+      "text": {
+        "normal": "Fulfilment, happiness and domestic harmony.",
+        "flipped": "Petty squabbling - don't sweat the small stuff!"
+      }
+    },
+    {
+      "name": "Page of Cups",
+      "imageName": "Cups11.jpg",
+      "text": {
+        "normal": "Sensitivity, thoughtfulness, loyalty. Unexpected news is on the way.",
+        "flipped": "With lack of experience comes naivety. Are you being easily influenced or distracted?"
+      }
+    },
+    {
+      "name": "Knight of Cups",
+      "imageName": "Cups12.jpg",
+      "text": {
+        "normal": "An invitation or proposal is on the way.",
+        "flipped": "Things may not be what they appear. Be weary of attractive and persuasive individuals."
+      }
+    },
+    {
+      "name": "Queen of Cups",
+      "imageName": "Cups13.jpg",
+      "text": {
+        "normal": "Emotional intensity and reliance on intuition before intellect.",
+        "flipped": "Beware of self-indulgent or wayward morality."
+      }
+    },
+    {
+      "name": "Kind of Cups",
+      "imageName": "Cups14.jpg",
+      "text": {
+        "normal": "A creative and compassionate authority that calms turbulent waters.",
+        "flipped": "Watch out! This person is as slippery as a fish."
+      }
+    },
+    {
+      "name": "Ace of Swords",
+      "imageName": "Swords01.jpg",
+      "text": {
+        "normal": "Order and just rule lead to abundance and prosperity. You are headed for success.",
+        "flipped": "Re-examine your motives. The abuse of power and throwing obstacles in the paths of others will only cause you embarrassment."
+      }
+    },
+    {
+      "name": "Two of Swords",
+      "imageName": "Swords02.jpg",
+      "text": {
+        "normal": "The situation is delicately balanced. Diplomacy is required but agreement can be reached - relationships will warm up, but it will take time.",
+        "flipped": "Someone is not telling the whole story. A lie could upset the balance. Insist on complete honesty."
+      }
+    },
+    {
+      "name": "Three of Swords",
+      "imageName": "Swords03.jpg",
+      "text": {
+        "normal": "Heartbreak, adultery, infidelity. This is a warning. Make sure to communicate with loved ones and take care of health matters.",
+        "flipped": "Confusion, disorder, errors. Setting priorities will help ease your worries."
+      }
+    },
+    {
+      "name": "Four of Swords",
+      "imageName": "Swords04.jpg",
+      "text": {
+        "normal": "Recovery. It's time to take a break from life's pressures.",
+        "flipped": "Proceed with caution. Progress will occur in small increments. A search for something lost."
+      }
+    },
+    {
+      "name": "Five of Swords",
+      "imageName": "Swords05.jpg",
+      "text": {
+        "normal": "Withdrawal after conflict or a victory without peace. It's a bad time to make enemies.",
+        "flipped": "It's an unsettling period in time. A friend may need support."
+      }
+    },
+    {
+      "name": "Six of Swords",
+      "imageName": "Swords06.jpg",
+      "text": {
+        "normal": "Relief will come after a struggle, someone will soon cut you some slack. A potential sea voyage may be in store.",
+        "flipped": "An unexpected or unwelcome proposal. The situation cannot be resolved right now."
+      }
+    },
+    {
+      "name": "Seven of Swords",
+      "imageName": "Swords07.jpg",
+      "text": {
+        "normal": "Your efforts will be partially successful. Perhaps it's time for a new plan. Don't let fantasies interfere with the task at hand.",
+        "flipped": "Someone near is dispensing bad advice. Or - could you be the one who talks too much?"
+      }
+    },
+    {
+      "name": "Eight of Swords",
+      "imageName": "Swords08.jpg",
+      "text": {
+        "normal": "A difficult situation cannot be ignored. Bad news should be faced squarely even if nothing else can be done.",
+        "flipped": "Past events come back to haunt you. A few extra safety precautions will prevent accidents."
+      }
+    },
+    {
+      "name": "Nine of Swords",
+      "imageName": "Swords09.jpg",
+      "text": {
+        "normal": "This is the darkest hour before the dawn. Action is the anti-dote to worry.",
+        "flipped": "Trust your intuition and suspicions about that certain person. Your doubts are well founded."
+      }
+    },
+    {
+      "name": "Ten of Swords",
+      "imageName": "Swords10.jpg",
+      "text": {
+        "normal": "Major changes are on the way and resistance is futile. A path clears itself, giving way to something new.",
+        "flipped": "A temporary improvement or gain. A quick profit but nothing lasting."
+      }
+    },
+    {
+      "name": "Page of Swords",
+      "imageName": "Swords11.jpg",
+      "text": {
+        "normal": "Perception, action, quick thinking. Spying or trouble with the authorities.",
+        "flipped": "Powers stronger than yours are at work. It's difficult to stay one step ahead of the situation. An imposter is found out."
+      }
+    },
+    {
+      "name": "Knight of Swords",
+      "imageName": "Swords12.jpg",
+      "text": {
+        "normal": "Bravery, battles, skill. You rush into situations without weighing up the consequences. Your charm can get you our of scrapes.",
+        "flipped": "You are blind to your shortcomings. Because you fall in love at first sight, you can make the wrong choices."
+      }
+    },
+    {
+      "name": "Queen of Swords",
+      "imageName": "Swords13.jpg",
+      "text": {
+        "normal": "Intelligence, cool, logic. Quick wits and a sharp tongue. Continuing bravely despite loss.",
+        "flipped": "A dangerous enemy, normally rational now shows a closed mind."
+      }
+    },
+    {
+      "name": "Kind of Swords",
+      "imageName": "Swords14.jpg",
+      "text": {
+        "normal": "Unquestioned leadership, primed for action. Pause to weigh the situation.",
+        "flipped": "Stirring up controversy and discord, cruelty and mean-spiritedness."
+      }
+    }
+  ]
+}
